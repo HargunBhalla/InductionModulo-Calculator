@@ -1,0 +1,7 @@
+Induction part: 
+- Needs to take in base case/basis 
+- Induction hypothesis (if any): Assume...for n=k
+- Confirm that base case and IH are right, if not take that input again 
+- If statements are right -> move on, true for n=k+1 
+- Test for n=k+2 
+- Conclusion: Statement is true for all values of n 
