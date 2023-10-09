@@ -1,1 +1,1 @@
-# Modulo-calculator
+# Mathematical Induction and Modulo -calculator
