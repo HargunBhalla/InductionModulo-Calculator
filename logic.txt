@@ -5,3 +5,8 @@ Induction part:
 - If statements are right -> move on, true for n=k+1 
 - Test for n=k+2 
 - Conclusion: Statement is true for all values of n 
+
+Modulo part: 
+- Take in user input 
+- Only accept ints, won't work with float or decimal point numbers 
+- Divide 2 numbers to the point of the largest whole number then return the remainder as the output of the function 
