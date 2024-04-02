@@ -12,3 +12,8 @@ Mathematical Induction Proof Technique:
 4) As P(k) leads to P(k+1) and exists for an arbitrary k, P(n) leads to P(n+1) and must exist/hold for all values of n
 5) Therefore, through the Principle of Mathematical Induction and following these steps, QED and the given statement is true.
   
+Modulo:
+1) a mod b -> 21 mod 5 (a = 21, b = 5), quotient is 4 and remainder is 1, return/expected output: 1
+2) Using the % operator, asks for the user input
+3) Calculates the remainder
+4) Returns the remainder and output message
