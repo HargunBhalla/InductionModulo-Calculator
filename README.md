@@ -11,6 +11,7 @@ Mathematical Induction Proof Technique:
 - Show that P(k+1) is true, using the Induction Hypothesis and invoking mathematical induction
 4) As P(k) leads to P(k+1) and exists for an arbitrary k, P(n) leads to P(n+1) and must exist/hold for all values of n
 5) Therefore, through the Principle of Mathematical Induction and following these steps, QED and the given statement is true.
+Use cases to account for: Strong and weak Induction (https://www.math.cmu.edu/~mradclif/teaching/127S19/Notes/Induction.pdf)
   
 Modulo:
 1) a mod b -> 21 mod 5 (a = 21, b = 5), quotient is 4 and remainder is 1, return/expected output: 1
